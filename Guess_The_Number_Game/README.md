@@ -6,7 +6,7 @@ A fun and interactive command-line interface (CLI) game where you challenge your
 ![Python](https://img.shields.io/badge/python-3.x-green)
 
 ## 📺 Demo
-![Game Preview](https://github.com/rominva/Guess_The_Number_Game/blob/main/assets/Guess_The_Number_Game.gif)
+![Game Preview](https://github.com/rominva/python-mini-projects/blob/main/Guess_The_Number_Game/assets/Guess_The_Number_Game.gif)
 
 ## 📝 Description
 This is a classic "Guess the Number" game developed in Python. The user sets their own difficulty by choosing the range (minimum and maximum numbers). The game then picks a random number, and the player has **5 attempts** to find it.
