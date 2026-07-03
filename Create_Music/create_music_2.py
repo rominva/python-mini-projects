@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import winsound
 
 def creat_music():
@@ -12,3 +13,19 @@ def creat_music():
 
 
 creat_music()
+=======
+import winsound
+
+def creat_music():
+    frequency = 300
+    duration = 3000
+    while frequency < 700:
+        winsound.Beep(frequency, duration)
+        frequency += 100
+        duration -= 200
+    winsound.Beep(500, 3000)
+    winsound.Beep(400, 3000)
+
+
+creat_music()
+>>>>>>> 85dee3d054dc3798a6454b993a7d5e7f714fb69a
