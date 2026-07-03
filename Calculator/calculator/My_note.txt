@@ -1,0 +1,3 @@
+# undone taskd:
+1) more complex calculator
+2) graphical calculator
