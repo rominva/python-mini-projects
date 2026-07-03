@@ -6,7 +6,7 @@ A fun **Python word guessing game** where you try to guess a color by entering l
 ![Python](https://img.shields.io/badge/python-3.x-green)
 
 ## 📺 Demo
-![Guess the Word Demo](https://github.com/rominva/Guess_The_Word_Game/blob/main/assets/guess_the_word.gif)
+![https://github.com/rominva/python-mini-projects/blob/main/Guess_The_Word_Game/assets/guess_the_word.gif)
 
 ## Algorithm
 
